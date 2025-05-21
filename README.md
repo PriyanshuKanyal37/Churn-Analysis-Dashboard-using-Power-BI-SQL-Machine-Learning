@@ -18,3 +18,10 @@ Telecom company wants to identify and reduce customer churn using data-driven in
 - Machine Learning (Random Forest) for churn prediction
 - ML output integrated into Power BI
 
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/45acd923-3dc3-40fd-8531-2d876341ceb8)
+![image](https://github.com/user-attachments/assets/2e5e6e2f-56db-4003-8791-c6333ca68e52)
+
+
+Made By: Priyanshu Kanyal
+
